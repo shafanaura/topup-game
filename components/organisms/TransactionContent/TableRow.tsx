@@ -53,7 +53,7 @@ const TableRow = (props: TableRowProps) => {
         </div>
       </td>
       <td>
-        <Link href="/member/transactions-detail">
+        <Link href="/member/transactions/detail">
           <a className="btn btn-status rounded-pill text-sm">Details</a>
         </Link>
       </td>
